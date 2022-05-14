@@ -1,9 +1,8 @@
 # bashify
 Powershell profile to bashify your Windows prompt
 
-windows 10 
-
-
+How does it work?
+--------
 Read more about profiles [here](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_profiles?view=powershell-7.2).
 
 Sources 🙏🏻
