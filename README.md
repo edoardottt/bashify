@@ -30,6 +30,10 @@ Sources 🙏🏻
 - [How to do what head, tail, more, less, sed do in Powershell?](https://stackoverflow.com/questions/9682024/how-to-do-what-head-tail-more-less-sed-do-in-powershell)
 - [Using PowerShell to Create ZIP Archives and Unzip Files](https://blog.netwrix.com/2018/11/06/using-powershell-to-create-zip-archives-and-unzip-files/).
 
+Changelog 📌
+-------
+Detailed changes for each release are documented in the [release notes](https://github.com/edoardottt/bashify/releases).
+
 Contributing 🤝
 ------
 If you want to contribute to this project, you can start opening an [issue](https://github.com/edoardottt/bashify/issues).
