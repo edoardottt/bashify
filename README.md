@@ -3,7 +3,8 @@ Powershell profile to bashify your Windows prompt
 
 How does it work? 🔍
 --------
-Read more about profiles [here](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_profiles?view=powershell-7.2).
+Read more about profiles [here](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_profiles?view=powershell-7.2).  
+If you can't run the script it's likely you should change your [execution policy](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.2).
 
 Commands 🛠️
 ------
