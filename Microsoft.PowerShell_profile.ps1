@@ -1,7 +1,6 @@
 # bashify
 # https://github.com/edoardottt/bashify
-#
-
+# edoardottt, https://www.edoardoottavianelli.it/
 
 #
 # This function modifies the prompt layout.
