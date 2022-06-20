@@ -8,8 +8,8 @@ If you can't run the script it's likely you should change your [execution policy
 
 Installation 📥
 ------
-- Locate the Powershell home with `echo $PSHOME`
-- Save the file Microsoft.PowerShell_profile.ps1 (with this exact name) inside that folder
+- Locate the Powershell home with `echo $PSHOME` (likely to be `C:\Windows\System32\WindowsPowerShell\v1.0`)
+- Save the file `Microsoft.PowerShell_profile.ps1` (with this exact name) inside that folder
 - Close the terminal and reopen it
 
 Commands 🛠️
